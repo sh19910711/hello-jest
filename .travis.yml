@@ -1,6 +1,6 @@
-language: nodejs
+language: node_js
 
-nvm:
+node_js:
   - "0.10"
   - "0.8"
 
